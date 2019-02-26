@@ -1,5 +1,5 @@
 // Import MySQL connection.
-var connection = require("../config/connection.js");
+var connection = require("../config/connections.js");
 
 
 // Helper function for SQL syntax.
@@ -35,7 +35,6 @@ function objToSql(ob) {
 
   return arr.toString();
 }
-
 
 //select all function
 var orm = {
