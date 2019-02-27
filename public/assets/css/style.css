@@ -13,10 +13,11 @@ h1{
   margin-bottom: 5px;
 }
 body{
-	background-image: url("../img/check.jpg");
+	background-image: url("../img/diner.jpg");
 }
 .main-container{
 	text-align: center;
+	align-content: center;
 }
 ul{
 	text-align: center;
