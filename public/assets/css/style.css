@@ -13,7 +13,7 @@ h1{
   margin-bottom: 5px;
 }
 body{
-	background-image: url(".public/assets/img/check.jpg");
+	background-image: url("../img/check.jpg");
 }
 .main-container{
 	text-align: center;
