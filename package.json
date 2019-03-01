@@ -25,5 +25,9 @@
     "heroku": "^7.22.2",
     "method-override": "^3.0.0",
     "mysql": "^2.16.0"
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
   }
 }
